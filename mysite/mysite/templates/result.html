@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+{% include "base.html" %}
+<body>
+<script>
+$(document).ready(function(){
+    $('table#result').find('tr').each(function(){ 
+        $(this).find('th').eq(-1).after('<th>Total</th>');
+        $sum = 0;
+        $(this).find('td').each(function(index,element)
+        {
+            if(index>0){
+                $temp = parseFloat(element.innerHTML).toFixed(2);
+                $sum += parseFloat($temp);
+                element.innerHTML = $temp;
+            }
+        });
+        $(this).find('td').eq(-1).after('<td>'+$sum.toFixed(2)+'</td>'); });
+    $("table#result").DataTable();
+});
+</script>
+<div class="container">
+    <center><h2> Results </h2></center>
+    <table class="table table-striped table-hover table-bordered table-condensed" id="result">
+        <thead>
+        <th>Student</th>
+            {% for i in questions %}
+                <th>Question {{forloop.counter}}<br><small> [{{i}}]</small></th>
+            {% endfor %}
+        </thead>
+        <tbody>
+        {% for student,marksList in consolidated_data.items %}
+        <tr><td>{{student}}</td>
+            {% for marks in marksList %}
+                {% for q,m in marks.items %}
+                    <td title="{{m.0}}">{{m.1}}</td>
+                {% endfor %}
+            {% endfor %}
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

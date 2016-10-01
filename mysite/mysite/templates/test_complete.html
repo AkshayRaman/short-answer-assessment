@@ -1,0 +1,16 @@
+{% include "base.html" %}
+
+<div class="jumbotron">
+    <div class="container">
+       {% if error %}
+        <h1>Error!</h1>
+       <p>{{error}}</p>
+
+       {% else %}
+        <h1>Done!</h1>
+       <p>You have completed this test!</p>
+        {% endif %}
+
+        <p>Click <a class="btn btn-primary btn-lg" href="{% url "logout" %}" role="button">here</a> to logout.</p>
+    </div>
+</div>

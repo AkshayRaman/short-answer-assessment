@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+{% include "base.html" %}
+<body style="background-color: rgb(238, 238, 238);">
+<ul class="nav nav-tabs navbar navbar-inverse">
+    <li role="presentation"><p class="navbar-text">Online Assessment Portal</li>
+    <li role="presentation" class="pull-right btn btn-xs"><a href="{% url 'logout' %}">Logout</a></li>
+    <li class="pull-right"><p class="navbar-text">Signed in as {{user}}</p></li>
+</ul>
+<br>
+
+<div class="container">
+    <h4> Attempt all questions </h4>
+    <form action="{% url 'submit' %}" method="POST">
+    {% csrf_token %}
+    {% for i in questionList %}
+        <div class="panel panel-info">
+          <div class="panel-heading">Question {{ forloop.counter }}.  {{ i.question_text}}</div>
+           <div class="panel-nody"><textarea name="question{{ i.id }}" id ="{{ i.id }}" maxlength="1500" cols="100" rows="5" style="width:100%"></textarea></div>
+        </div>
+    {% endfor %}
+    <center><button class="btn btn-lg btn-warning btn-block" name="submit" value="Submit test!" onclick="return confirm('Do you really want to submit?');" style="width:220px">Submit!</button></center>
+    </form>
+</div>
+</body>
+</html>
