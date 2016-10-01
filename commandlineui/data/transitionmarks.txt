@@ -1,0 +1,48 @@
+1081210003	transition is the process of switching from one state to another. whenever a process is executed, there is a transition from one state to another. 	2
+1081210004	Transition refers to change of one state to other. It is used in case of stat transition diagram. 	2
+1081210010	Transition is a process of changing from one state to another. 	2
+1081210016	transition is succession of moving from one state to the other. this means that in automata theory, the arrow will point to the other state as transition occurs. 	2
+1081210019	Transition means transformation from one state to another state i.e. moving from one state to a different state 	2
+1081210020	Transition is the phenomenon of shifting from one state to another in the workflow. 	2
+1081210040	Transition is represented by a solid arrow which goes from one state to another. this is also labeled by some conditions that are responsible for the state transition 	2
+1081210043	Transition is the process of changing from one software development process to the other.It is also the process of changing from one state to the other in a state transition diagram. 	2
+1081210047	A transition is the movement or state of change from one state to another state transition diagram 	2
+1081210049	The change from one state to the other is called transition 	2
+1081210064	transition refers to the movement from one state to other upon occurence of different activities 	2
+1081210065	The transformation from one state to another is called a transition. 	2
+1081210071	Moving from one state to another is referred to as transition. 	2
+1081210072	it is the phenomenom by which we can shift from one state to another in the context of UML 	2
+1081210074	Transition refers to transformation from one state to another state in a state diagram. 	2
+1081210080	The transmission from one state to another state in a state diagram is called as transition 	2
+1081210086	The movement from one state to another is transition 	2
+1081210089	The change of state from one state to the other is referred to as transition 	2
+1081210209	change from one state to another 	2
+1081210224	change from one state to another state in a state diagram is called transition. 	2
+1081210315	Change from one state to another state is called Transition 	2
+1081210340	transition is a change from one state to another 	2
+1081210007	transmission form one state to another in transition diagram is called transition 	1.5
+1081210015	It mean moving from one state to another level in the workflow 	1.5
+1081210037	It is the phenomenon of shifting from one state to the other in the workflow. 	1.5
+1081210054	a transition is that converts the ooad from one state to another 	1.5
+1081210069	change of state 	1
+1081210318	transition is the phoeniominion shifting from one state to another in the workflow 	1
+1081210005	it is the process of changing one form to another. 	0.5
+1081210008	It is defined as the changing the form from one to another. 	0.5
+1081210036	It is defined as the process of change from one type to another. 	0.5
+1081210048	it referes to the state 	0.5
+1081210057	IT IS HOW FROM ONE STATE TO ANOTHER 	0.5
+1081210060	how the state of a product changes over a period of time. 	0.5
+1081210023	the movement form one component to other component 	0.5
+1081210055	it ia mainly known as states within a process 	0
+1081210062	states in a process 	0
+1081210078	process in which set of operation are performed to obtain a result 	0
+1081210009		0
+1081210017		0
+1081210018		0
+1081210022		0
+1081210024		0
+1081210026		0
+1081210039		0
+1081210082		0
+1081210314		0
+1081210319		0

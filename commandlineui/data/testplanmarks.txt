@@ -1,0 +1,48 @@
+1081210003	test plan is necessary because testing of a software from time to time is the most important aspect of developing a softwatare. if there will not be proper test plan , then the developers will keep developing the software with errors , which when detected at some later time will be very much tedious to correct..therefore , even before start developing the software , a proper test plan must be developed	2
+1081210004	Test plan is used to draw out a plan about how the process of testing will be done. It is very important as road map for testing activities, random tseting would lead to whether usability, user confusion and less efficiency.	2
+1081210080	Test plan is necessary because it helps out in finding the errors or bugs in a system and helps in removal of the bug. Continuos testing helps in creating an error free system. As a system is tested again and again for the bugs errors are likely to get removed. 	2
+1081210016	a test paln is necessary since it should be maintained that all the parts of the software are equally tested and the testing is not concentrated to only certain parts, since testing without a plan will make it liable to do so. 	1.5
+1081210040	Test plan is used to check if the requirements are fullfiled or not. The testing process includes various testing methods such as white box testing, black box testing, etc. All the errors are found in the testing phase. After the errors are detected they are debugged. 	1.5
+1081210043	Test plan is necessary to figure out whether the software is working according to its need or not.A good test plan ensures that the ntesting is done in an efficient manner and not a lot of t8ime,money,people and resources are wasted. Also the software obtained turns out better after a good test 	1.5
+1081210048	TEST PLAN IS NECCESSARY TO CHECK FOR THE PROBLEMS OR ERRORS, ALSO A SOFTWARE SHOULD BE TESTED FOR ALL SPECIFICATIONS , COMPATIBILTY BEFORE HANDING OBER TO THE USER 	1.5
+1081210007	It is used for proper testing of the system and to find errors that are not yet discovered. 	1
+1081210015	A test plan ensures that any errors found are identified and removed. 	1
+1081210020	A test plan can help ensure that any errors found are identified and eliminated at the earliest. Increases efficiency of the design process. 	1
+1081210037	A test plan can help ensure that any errors found are identified and eliminated at the earliest. 	1
+1081210049	Test plan is neccessary because it is the phase which lets us come to a decission on what testing strategy ius to used and the test cases 	1
+1081210054	a test case is the one which discovers the yet undiscovered errors so it necessary for testing 	1
+1081210055	the test paln is needed to ensure the development of the software inan efficient and better way. to make sure what we are preparing is right or not. 	1
+1081210057	TO FIND OUT ERRORS SO THAT USER MAY GET THE BEST OF EXPECTATIONS 	1
+1081210060	to detect all piossible errors so that the system can meet our expectations 	1
+1081210065	The necessiity of a test plan is very important as it helps in testing the product or the prototype prior to its final execution. 	1
+1081210069	In a test plan each and every action to be analysed and tested carefully in detail so as to reduce the errors 	1
+1081210074	Test plan is very important as it helps in testing the prototype or the product prior to its delivery. 	1
+1081210078	test plan are plan that is needed to find as many possible error as it can in code to make the code better 	1
+1081210224	Test plan is required to build the test cases of a product. It is also required for the testing of the product. 	1
+1081210009	Test Plan is required to test the application. A plan is required to test the application 	0.5
+1081210010	Test plan is used to plan the basic operation of the program and then execute it step by step as per the plan. 	0.5
+1081210022	A test plan helps to discover the undiscovered errors 	0.5
+1081210023	A test plan is used to find the design error, to find the error in design code, to make the program efficient 	0.5
+1081210026	Test plan is used to find the errors in the design of the software. 	0.5
+1081210036	In a test plan each and every activity has to analysed in detail and a strict and effecient step by step process is to be laid out so that each and every component of the software is properly tested. 	0.5
+1081210047	For a test plan, It is necessary to know the design of the software which is being tested, the approximate cost of the testing 	0.5
+1081210062	It ensures the effectiveness of a testing strategy. 	0.5
+1081210064	The test plan is made to find out maximum possible error 	0.5
+1081210072	by writing a test plan it guides our thinking the test planning process and the plan itself serve as the means of communication with other members of the project team 	0.5
+1081210086	Test plan specifies the requirements and help to develop the project in an efficient way 	0.5
+1081210089	A test plan is necessary in order to have a prior idea of the project.It also tells us about the bugs and errors that may occur and the requirements that may persist. 	0.5
+1081210209	to write test cases 	0.5
+1081210315	Test plan is used to analyse and implement different testing processess. 	0.5
+1081210005	test plan is defined as the strategy to develop the product out of the resources. 	0
+1081210008	usecase diagram with skeleton diagram will reduce the complexity 	0
+1081210019	analyse the needs of the system 	0
+1081210024	good planning 	0
+1081210039	good planning 	0
+1081210071	The requirements of the project. Date of completion. Cost estimation etc 	0
+1081210318	it can help to ensure the 	0
+1081210340	it has certain protocols which becomes necessary	0
+1081210017		0
+1081210018		0
+1081210082		0
+1081210314		0
+1081210319		0

@@ -1,0 +1,48 @@
+1081210004	Usability of any software is how much we can use the software. If the usability of any software is less, it means that the software is not user friendly and not usable. 	2
+1081210043	Usability is the process of being used whether the software can be used or not and whether it satisfies the needs of the people and qualifies the purpose for which it was built. Usability also tells whether any errors are contained in the software 	2
+1081210049	Usability is the ability and ease by which a user can use the product. 	2
+1081210047	Usability is the property of the software that defines the extent to which the software can be used by the user 	1.5
+1081210071	Usability is a feature of the system to check how interactive the system is with the user. It also checks if the user is easily able to use the system. 	1.5
+1081210016	usability is the method of using the software to optimize the best output that can be got out from the product. the optimal output if extracted from the software that is designed for a particular use is this 	1
+1081210020	Usability is the level of implentation of the specific application. If the application is not usable then it will not meet the required functional requirements 	1
+1081210036	Usability is defined as the property of an object which defines the extent to which it can be used, also the varied areas in which it can be put to use 	1
+1081210037	Usability is a level of implementation of the specific application. If the application is not usable it will not meet the required Functional requirements. 	1
+1081210039	usabilty means requirements can be completed in effective manner 	1
+1081210057	Usability refers to how easily a user can use the system. 	1
+1081210060	Usability means how easily a user can use the system 	1
+1081210062	Usability is the measure of usefulness of a designed 	1
+1081210069	Usability of an object and defines to which extent it can be used 	1
+1081210224	Usability refers to the purpose of using or usage of a product and it is also a testing touse the product	1
+1081210003	usabiltiy is the technique of reusing various structural components of a software to develop a new application. reusability prevents the developers from writting the same set of codes redundently in various applications of the same type 	0.5
+1081210005	usability is defined as using the avaliable resources and making an efficient product out of it 	0.5
+1081210007	usability is the ease to use and learnibility of human made objects 	0.5
+1081210008	usability is defined as the use of the number of resources in the following test case 	0.5
+1081210010	Usability defines about how well a plan or a project can be used as per the requirements and constraints 	0.5
+1081210015	usability is level of implementation of the specific application . If the application is not usable it will not meet the functional requiremnets 	0.5
+1081210019	usability defines the scope of the element i.e how it can be used, for how long it can be used 	0.5
+1081210022	It tells whether the software is testable or not 	0.5
+1081210024	usability is defined as using the requirements in an efficient manner 	0.5
+1081210040	the optimal output generation is usability. When we get the required output correct, the usability of the program is good 	0.5
+1081210048	USABILITY REFERES TO THE USAGE OF THE PARTICULAR SOFTWARE 	0.5
+1081210074	Usability refers to the ease of use and learnability of a human made object 	0.5
+1081210078	usablity is a process by which we reuse the code to adapt good design methord and clarity 	0.5
+1081210080	Usability is an ease to use and learnability of human made objects 	0.5
+1081210315	Usability is termed to tell how a software can be used 	0.5
+1081210318	usability the us eof level of implementationof the specific application. 	0.5
+1081210340	usability is when a user is a allowed to used the software or if the software is in a usable state 	0.5
+1081210017	it is used to give the exact usability purpose. 	0
+1081210023	it is the set parameters to use the resources of privious product 	0
+1081210054	ued to defined the program or a software produt so it can be used to access the various groups 	0
+1081210055	using a particular resource again and again 	0
+1081210064	use of pre existing code 	0
+1081210086	It is the usage of data. 	0
+1081210009		0
+1081210018		0
+1081210026		0
+1081210065		0
+1081210072		0
+1081210082		0
+1081210089		0
+1081210209		0
+1081210314		0
+1081210319		0

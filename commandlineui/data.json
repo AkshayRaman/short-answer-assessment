@@ -1,0 +1,39 @@
+{
+"data":[
+    {
+        "question":"What is the necessity of a test plan?",
+
+        "answers":["A test plan is developed to detect and identify potential problems before delivering the software to its users. A test plan offers a road map for testing activities, whether usability, user satisfaction, or quality assurance tests. It should state the test objectives and how to meet them.",
+"Test plan is used to draw out a plan about how the process of testing will be done. It is very important as road map for testing activities,  random tseting would lead to whether usability, user  confusion and less efficiency.",
+"Test plan is necessary because it helps out in finding the errors or bugs in a system and helps in removal of the bug. Continuous testing helps in creating an error free system. As a system is tested again and again for the bugs errors are likely to get removed."],
+
+        "keywords":["satisfaction","assurance","quality"],
+
+        "enabled": true
+    },
+
+    {
+        "question":"What is a transition?",
+
+        "answers":["A transition is a progression from one state to another and will be triggered by an event that is either internal or external to the entity being modelled.",
+"Transition refers to change of one state to other. It is used in case of state transition diagram.",
+"Transition is the phenomenon of shifting from one state to another in the workflow."],
+
+        "keywords":["state"],
+
+        "enabled": true
+    },
+
+    {
+        "question":"Define Usability",
+
+        "answers":["Usability is defined as the effectiveness, efficiency, and satisfaction with which a specified set of users can achieve a specified set of tasks in particular environments.",
+"Usability is the process of being used whether the software can be used or not and whether it satisfies the needs of the people and qualifies the purpose for which it was built. Usability also tells whether any errors are contained in the software",
+"The ability and ease by which a user can use the product is called usability"],
+
+        "keywords":["effective","efficiency","satisfaction"],
+
+        "enabled": true
+    }
+]
+}
